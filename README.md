@@ -1,4 +1,4 @@
-# Logstash-config-for-Palo-Alto
+# ELK Logstash-config-for-Palo-Alto
 Logstash config file to get log from Palo Alto Networks Firewall &amp; Traps &amp; Cortex XDR
 Put this file into /etc/logstash/conf.d/
 
